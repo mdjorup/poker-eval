@@ -32,7 +32,7 @@ Where:
 Example usage:
 
 ```
-python main.py TC JD 3
+python3 main.py TC JD 3
 ```
 
 This will evaluate the probability of winning with Ten of Clubs and Jack of Diamonds with 3 players in total.
