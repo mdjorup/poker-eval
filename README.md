@@ -8,9 +8,9 @@ The Poker Evaluator is a command-line program that calculates the winning probab
 
 Before running the program, ensure you have the following Python modules installed:
 
-- 'random'
-- 'argparse'
-- 'itertools'
+- `random`
+- `argparse`
+- `itertools`
 
 These dependencies are included in the Python Standard Library and should be available by default.
 
